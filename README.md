@@ -2,8 +2,6 @@
 
 ![Screenshot 2023-08-22 161446](https://github.com/GovindGoku/Travel-website/assets/117507364/a387723e-675f-4906-aa30-be516ec65042)
 
-# Travel-App
-
 # React Tailwind CSS Website
 
 🚀 A simple React website styled with Tailwind CSS.
